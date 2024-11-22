@@ -1,9 +1,3 @@
-
-   
-  Here's a shorter, simpler version of the README:
-
----
-
 # React Parent-Child Communication Example
 
 This is a basic React app showing how data can be passed between a parent and a child component.
